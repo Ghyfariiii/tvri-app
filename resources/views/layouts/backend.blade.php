@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ config('app.name', 'SIMS TVRI Gorontalo') }} - Sistem Informasi Manajemen Studio</title>
+    <title>Sistem Informasi Manajemen Siaran - TVRI Gorontalo</title>
     
     <!-- PENGAMANAN SUPER KETAT: ISOLASI SESI PER-TAB -->
     <script>
